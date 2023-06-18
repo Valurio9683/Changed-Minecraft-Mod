@@ -40,29 +40,29 @@
   "subtitles.changed.paralyze3": "Intercom announces",
   "subtitles.changed.blow1": "Player latexed",
 
-  "item.changed.benign_pants": "Latex Pants",
+  "item.changed.benign_pants": "Latex Shorts",
   "item.changed.blood_syringe": "Blood Syringe",
-  "item.changed.dark_latex_crystal_fragment": "Dark Latex Crystal Fragment",
-  "item.changed.dark_latex_dragon_crystal_fragment": "Dark Latex Dragon Crystal Fragment",
+  "item.changed.dark_latex_crystal_fragment": "Dark Latex Crystal Shard",
+  "item.changed.dark_latex_dragon_crystal_fragment": "Dark Latex Dragon Crystal Shard",
   "item.changed.dark_latex_goo": "Dark Latex Goo",
   "item.changed.dark_latex_mask": "Dark Latex Mask",
   "item.changed.dark_latex_bucket": "Dark Latex Bucket",
   "item.changed.compact_disc": "Compact Disc",
   "item.changed.latex_base": "Latex Base",
-  "item.changed.latex_beifeng_crystal_fragment": "Latex Beifeng Crystal Fragment",
+  "item.changed.latex_beifeng_crystal_fragment": "Latex Beifeng Crystal Shard",
   "item.changed.latex_inkball": "Latex Inkball",
   "item.changed.latex_syringe": "Latex Syringe",
-  "item.changed.latex_wolf_crystal_fragment": "Latex Wolf Crystal Fragment",
+  "item.changed.latex_wolf_crystal_fragment": "Latex Wolf Crystal Shard",
   "item.changed.latex_tipped_arrow": "Latex Tipped Arrow",
   "item.changed.orange": "Orange",
-  "item.changed.pink_pants": "Pink Pants",
+  "item.changed.pink_pants": "Pink Latex Shorts",
   "item.changed.syringe": "Syringe",
   "item.changed.white_latex_goo": "White Latex Goo",
   "item.changed.white_latex_bucket": "White Latex Bucket",
 
-  "item.changed.tsc_staff": "TSC Staff",
-  "item.changed.tsc_baton": "TSC Baton",
-  "item.changed.tsc_shield": "TSC Shield",
+  "item.changed.tsc_staff": "TSC Shock Staff",
+  "item.changed.tsc_baton": "TSC Shock Baton",
+  "item.changed.tsc_shield": "TSC Riot Shield",
 
   "item.changed.leather_upper_abdomen_armor": "Leather Upper Abdomen Armor",
   "item.changed.leather_lower_abdomen_armor": "Leather Lower Abdomen Armor",
@@ -77,10 +77,10 @@
   "item.changed.netherite_upper_abdomen_armor": "Netherite Upper Abdomen Armor",
   "item.changed.netherite_lower_abdomen_armor": "Netherite Lower Abdomen Armor",
 
-  "item.changed.latex_dance_record": "Latex Dance Music Disc",
-  "item.changed.latex_dance_record.desc": "By LtxProgrammer",
-  "item.changed.owo_record": "ÒwÓ Music Disc",
-  "item.changed.owo_record.desc": "By Artemka2009",
+  "item.changed.latex_dance_record": "Music Disc",
+  "item.changed.latex_dance_record.desc": "Latex Dance - LtxProgrammer",
+  "item.changed.owo_record": "Music Disc",
+  "item.changed.owo_record.desc": "ÒwÓ - Artemka2009",
 
   "syringe.changed:form_special": "Patron Custom Form Syringe",
 
@@ -423,8 +423,5 @@
   "changed:advancements.main.transfur_legless.description": "Transfur yourself into a legless form",
 
   "changed:advancements.main.beehive_sleep.title": "Sweeter Dreams",
-  "changed:advancements.main.beehive_sleep.description": "Sleep in a beehive bed",
-
-  "changed:advancements.main.tame_a_latex.title": "Unlikely Friend",
-  "changed:advancements.main.tame_a_latex.description": "Tame a latex"
+  "changed:advancements.main.beehive_sleep.description": "Sleep in a beehive bed"
 }
